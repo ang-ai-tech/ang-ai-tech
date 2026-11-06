@@ -6,12 +6,17 @@ My background combines engineering, process improvement (Lean Six Sigma) and pro
 
 ---
 
-#### 🔧 Tech stack
+#### 🔧 Tech Stack
 
-**Data engineering:** Python · SQL · PostgreSQL · DuckDB · Apache Airflow · dbt
-**Analytics & BI:** Power BI · data modeling (star schema) · KPI design
-**Automation & AI:** Python automation · REST APIs · LLM-based workflows
-**Engineering practices:** Git · Docker · GitHub Actions (CI) · automated testing
+**Data Engineering:** Python · SQL · PostgreSQL · SQL Server · Apache Airflow · Dagster · Airbyte · dbt
+
+**Analytics & BI:** Power BI · Metabase · Superset · dimensional data modeling (star schema) · KPI design
+
+**Automation & AI:** Python automation · REST APIs · Power Automate · n8n · LLM-based workflows
+
+**Engineering Practices:** Git · Docker · GitHub Actions (CI) · automated testing
+
+**Currently Learning:** Google Cloud BigQuery — BigQuery for Data Analysts (Google Skills, in progress)
 
 ---
 
