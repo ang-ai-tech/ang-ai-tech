@@ -30,6 +30,7 @@ My background combines engineering, process improvement (Lean Six Sigma) and pro
 | [**E-commerce Analytics Engineering**](https://github.com/ang-ai-tech/ecommerce-analytics-engineering) | Messy store exports turned into tested, documented tables: layered dbt models, cohort retention, purchase funnel, contracts and unit tests | SQL · dbt · DuckDB · Streamlit · GitHub Actions |
 | [**Handbook RAG Assistant**](https://github.com/ang-ai-tech/handbook-rag-assistant) | Answers questions from company documents with cited sources, refuses when the answer is not there, measured on a test set | Python · RAG · BM25 & embeddings · LLM APIs · Streamlit |
 | [**Helpdesk Process Mining**](https://github.com/ang-ai-tech/helpdesk-process-mining) | How IT tickets really flow: process map, bottlenecks, rework, SLA and conformance checking on an event log | Python · PM4Py · process mining · Streamlit |
+| [**SQL Report Scheduler**](https://github.com/ang-ai-tech/sql-report-scheduler) | Open-source report automation: SQL query → formatted Excel template → e-mail, on a schedule, for any database | Python · SQL · SQLAlchemy · openpyxl · APScheduler · Docker |
 
 All projects are independent personal projects built on publicly available or synthetic data.
 
